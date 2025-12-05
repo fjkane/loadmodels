@@ -1,0 +1,4 @@
+/.venv/
+/dist/
+/loadmodels.egg-info/
+/.idea/
